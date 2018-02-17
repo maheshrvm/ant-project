@@ -51,18 +51,20 @@ $
 	<form action="action_page.php">
 
 # File marks:
-'0  4  8  ~/demo.c
-'1  3  7  ~/sample.txt
-'2  1  11  /repos/mvnproj/mahesh.txt
-'3  1  0  /repos/mvnproj/target/myproj.war
-'4  1  0  ~/mvnproj/target/myproj.war
-'5  141  0  ~/mvnproj/pom.xml
-'6  1  0  ~/mvnproj/target/pom
-'7  34  0  ~/ant_proj/build.xml
-'8  1  14  /repos/revert.txt
-'9  2  18  /repos/README.md
+'0  4  2  ~/code.c
+'1  4  8  ~/demo.c
+'2  3  7  ~/sample.txt
+'3  1  11  /repos/mvnproj/mahesh.txt
+'4  1  0  /repos/mvnproj/target/myproj.war
+'5  1  0  ~/mvnproj/target/myproj.war
+'6  141  0  ~/mvnproj/pom.xml
+'7  1  0  ~/mvnproj/target/pom
+'8  34  0  ~/ant_proj/build.xml
+'9  1  14  /repos/revert.txt
 
 # Jumplist (newest first):
+-'  4  2  ~/code.c
+-'  1  0  ~/code.c
 -'  4  8  ~/demo.c
 -'  1  0  ~/demo.c
 -'  3  7  ~/sample.txt
@@ -160,10 +162,15 @@ $
 -'  1  25  /etc/ssh/sshd_config
 -'  8  0  ~/MAHESH
 -'  1  0  ~/MAHESH
--'  1  5  /etc/hostname
--'  1  5  /etc/hostname
 
 # History of marks within files (newest to oldest):
+
+> ~/code.c
+	"	4	2
+	^	4	3
+	.	4	2
+	+	3	0
+	+	4	2
 
 > ~/demo.c
 	"	4	8
